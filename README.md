@@ -2,9 +2,7 @@
 
 **Names:** Cameron Dolly, Daniel Liew, Fritz Stapfer Paz, Lauren Gietzen, Logo Olagoke
 
-**Class:** CMS 270, Dr. Elva
-
-( I need to figure out how to include images in markdown so until then we won't have images)
+**Class:** CMS 270, Dr. Elvages)
 
 ## Abstraction
 
